@@ -19,7 +19,8 @@ __________________________
 ![np](https://user-images.githubusercontent.com/132735866/236752086-89cec6bd-b4b9-4650-b72b-04652b163381.png)
 ![pd](https://user-images.githubusercontent.com/132735866/236752104-8c8995a0-47b9-42d4-ad29-940c76d30185.png)
 ![plt](https://user-images.githubusercontent.com/132735866/236752126-e96204dd-e46e-4ae3-80a0-a88bd10bcfd5.jpg)
-![Scikit_learn](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/76084b29-600b-433d-af6b-d8d25468d5c1)
+![Scikit_learn](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/7210d9b5-c917-463c-bd5b-09fc10466bbe)
+
 
 
 
