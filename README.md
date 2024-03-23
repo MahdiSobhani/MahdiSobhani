@@ -20,7 +20,8 @@ __________________________
 ![pd](https://user-images.githubusercontent.com/132735866/236752104-8c8995a0-47b9-42d4-ad29-940c76d30185.png)
 ![plt](https://user-images.githubusercontent.com/132735866/236752126-e96204dd-e46e-4ae3-80a0-a88bd10bcfd5.jpg)
 ![scikit](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/5a91f0df-d41d-4f50-8627-002bf40f4613)
-![Flask](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/4dbe277d-bd25-498a-ba8d-bbc93f2632a6)
+![Flask](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/1272c314-57ee-4729-b4f1-fa1bd9ad2dce)
+
 
 
 
