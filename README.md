@@ -25,7 +25,7 @@ __________________________
 
 
 
-![Elastic]("https://github.com/user-attachments/assets/6705e75e-949a-4608-939f-f3a398b3e251)
+![Elastic](https://github.com/user-attachments/assets/6705e75e-949a-4608-939f-f3a398b3e251)
 ![mysql](https://user-images.githubusercontent.com/132735866/236752027-9cc3e150-4b4d-4401-86ed-660f2eda93e5.jpg)
 ![mongo](https://user-images.githubusercontent.com/132735866/236752139-c878062a-b7f2-4005-a8ff-25570db76fe4.png)
 
