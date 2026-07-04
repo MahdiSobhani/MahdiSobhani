@@ -33,16 +33,18 @@ __________________________
 
 
 
-![Flask](https://github.com/user-attachments/assets/f87d16e5-71b9-4d5f-81e4-525fe8976fc4>)
+![Flask](https://github.com/user-attachments/assets/29642be7-acc3-490a-8166-84a322735847)
 ![Css](https://github.com/user-attachments/assets/bdae084c-2291-471c-b80c-292bad81f72d)
 
 
 
-![Power-BI](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/df551998-c55c-4543-a743-56388f1321a5)
+![Power-BI](https://github.com/user-attachments/assets/e5eec418-b8c4-425b-8260-ebcb3e7ab275)
 
 
 
 <!---
+
+
 MahdiSobhani/MahdiSobhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
