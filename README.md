@@ -25,8 +25,10 @@ __________________________
 
 
 
+
 ![mysql](https://user-images.githubusercontent.com/132735866/236752027-9cc3e150-4b4d-4401-86ed-660f2eda93e5.jpg)
 ![mongo](https://user-images.githubusercontent.com/132735866/236752139-c878062a-b7f2-4005-a8ff-25570db76fe4.png)
+![ELK](https://github.com/user-attachments/assets/efe393cc-359c-424d-812b-9788e12085a3)
 
 
 ![Flask](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/1272c314-57ee-4729-b4f1-fa1bd9ad2dce)
