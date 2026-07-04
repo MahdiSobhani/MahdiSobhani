@@ -126,7 +126,10 @@ letter-spacing="8"
 fill="url(#gold)"
 filter="url(#glow)">
 
-MAHDI SOBHANI
+      
+👀 More Adventure
+
+👀 More Advantage
 
 </text>
 
@@ -135,16 +138,18 @@ MAHDI SOBHANI
 <text
 x="800"
 y="220"
-text-anchor="middle"
+text-anchor="left"
 font-family="Segoe UI,Arial,sans-serif"
-font-size="92"
+font-size="50"
 font-weight="800"
 letter-spacing="8"
 fill="white"
 mask="url(#mask)"
 opacity=".9">
 
-MAHDI SOBHANI
+👀 More Adventure
+
+👀 More Advantage
 
 </text>
 
