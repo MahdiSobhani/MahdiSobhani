@@ -1,12 +1,6 @@
-🌱 <p align="center"> <img src="banner.svg" width="100%"></p>
+<p align="center"> <img src="banner.svg" width="100%"></p>
 
 __________________________
-👀 More Adventure
-
-👀 More Advantage
-
-
-
 📫 https://t.me/Mhdi_1001
 
 
