@@ -28,6 +28,7 @@ __________________________
 
 ![mysql](https://user-images.githubusercontent.com/132735866/236752027-9cc3e150-4b4d-4401-86ed-660f2eda93e5.jpg)
 ![mongo](https://user-images.githubusercontent.com/132735866/236752139-c878062a-b7f2-4005-a8ff-25570db76fe4.png)
+![Elastic](https://github.com/user-attachments/assets/29f2450c-0699-4406-a907-250f5345dd5b)
 ![ELK](https://github.com/user-attachments/assets/efe393cc-359c-424d-812b-9788e12085a3)
 
 
