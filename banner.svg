@@ -118,19 +118,15 @@ repeatCount="indefinite"/>
 <text
 x="800"
 y="220"
-text-anchor="middle"
+text-anchor="left"
 font-family="Segoe UI,Arial,sans-serif"
-font-size="92"
+font-size="50"
 font-weight="800"
 letter-spacing="8"
 fill="url(#gold)"
 filter="url(#glow)">
-
-      
-👀 More Adventure
-
-👀 More Advantage
-
+More Adventure
+More Advantage
 </text>
 
 <!-- Shine -->
