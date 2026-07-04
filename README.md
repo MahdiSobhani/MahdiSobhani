@@ -1,5 +1,4 @@
-🌱 Hi, I’m Mahdi
-<p align="center"> Data Come down <img src="banner.svg" width="100%"></p>
+🌱 <p align="center"> <img src="banner.svg" width="100%"></p>
 
 __________________________
 👀 More Adventure
@@ -10,11 +9,6 @@ __________________________
 
 📫 https://t.me/Mhdi_1001
 
-.
-
-.
-
-.
 
 
 ![py](https://user-images.githubusercontent.com/132735866/236752062-d7caa691-9bf9-4ce0-94f5-f071fbfd0853.jpg)
