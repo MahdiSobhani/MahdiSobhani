@@ -1,17 +1,6 @@
 ![Logo](https://github.com/user-attachments/assets/1e748bea-4046-48b4-9e03-6caf7a08fbe0)
 
-
-
-
-
-
-
-
-
-
-
 __________________________
-
 
 
 ![py](https://user-images.githubusercontent.com/132735866/236752062-d7caa691-9bf9-4ce0-94f5-f071fbfd0853.jpg)
