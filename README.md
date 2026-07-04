@@ -33,8 +33,9 @@ __________________________
 
 
 
-![Flask](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/1272c314-57ee-4729-b4f1-fa1bd9ad2dce)
-![Css](https://github.com/user-attachments/assets/ae166c69-5a98-4d54-b551-bfc386e27cfd)
+![Flask](https://github.com/user-attachments/assets/f87d16e5-71b9-4d5f-81e4-525fe8976fc4>)
+![Css](https://github.com/user-attachments/assets/bdae084c-2291-471c-b80c-292bad81f72d)
+
 
 
 ![Power-BI](https://github.com/MahdiSobhani/MahdiSobhani/assets/132735866/df551998-c55c-4543-a743-56388f1321a5)
