@@ -16,7 +16,8 @@ __________________________
 
 ![mysql](https://user-images.githubusercontent.com/132735866/236752027-9cc3e150-4b4d-4401-86ed-660f2eda93e5.jpg)
 ![mongo](https://user-images.githubusercontent.com/132735866/236752139-c878062a-b7f2-4005-a8ff-25570db76fe4.png)
-![ELK](https://github.com/user-attachments/assets/b451a806-95d0-449a-bf9b-2ba243bfceaa)
+![UBUNTU](https://github.com/user-attachments/assets/b451a806-95d0-449a-bf9b-2ba243bfceaa)
+![docker](https://github.com/user-attachments/assets/e1ccef66-473b-4851-bf11-cf088b798dee)
 ![Elastic](https://github.com/user-attachments/assets/29f2450c-0699-4406-a907-250f5345dd5b)
 
 
