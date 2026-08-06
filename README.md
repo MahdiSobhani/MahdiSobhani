@@ -12,8 +12,6 @@ __________________________
 
 
 
-
-
 ![mysql](https://user-images.githubusercontent.com/132735866/236752027-9cc3e150-4b4d-4401-86ed-660f2eda93e5.jpg)
 ![mongo](https://user-images.githubusercontent.com/132735866/236752139-c878062a-b7f2-4005-a8ff-25570db76fe4.png)
 ![UBUNTU](https://github.com/user-attachments/assets/b451a806-95d0-449a-bf9b-2ba243bfceaa)
@@ -23,7 +21,7 @@ __________________________
 
 
 ![Flask](https://github.com/user-attachments/assets/29642be7-acc3-490a-8166-84a322735847)
-![Css](https://github.com/user-attachments/assets/bdae084c-2291-471c-b80c-292bad81f72d)
+[![Css](https://github.com/user-attachments/assets/bdae084c-2291-471c-b80c-292bad81f72d)](https://www.w3schools.com/css/)
 ![javascript](https://github.com/user-attachments/assets/a59a9be2-ff45-451c-9e48-a9f0e44ecd32)
 
 
