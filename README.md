@@ -18,7 +18,7 @@ My main areas of expertise include:
 * 🧠 Transformers & PEFT / LoRA
 * 🧩 Object-Oriented Programming, Design Patterns & Software Design
 * 🔌 REST API Development
-
+___________________________________________________________________
 </div>
 
 
