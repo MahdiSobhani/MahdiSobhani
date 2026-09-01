@@ -1,4 +1,3 @@
-![Logo](https://github.com/user-attachments/assets/93c623dd-b854-4805-b4d4-9bf46e60dffa)
 
 __________________________
 
