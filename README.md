@@ -12,7 +12,7 @@ My main areas of expertise include:
 * 🐍 Python Backend Development
 * ⚡ FastAPI & Flask
 * 🗄️ Database Design, Maintenance & Performance Optimization
-* 📊 Data Processing & Analysis
+* 📊 Data Processing, Analysis & Pipeline Design
 * 🔄 Parallel & Multithreaded Processing
 * 🤖 NLP, LLM & RAG
 * 🧠 Transformers & PEFT / LoRA
