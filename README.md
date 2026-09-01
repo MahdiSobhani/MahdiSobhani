@@ -1,4 +1,11 @@
+<div align="center">
 
+✨ Hi, I'm Mahdi Sobhani 👋
+Python Backend Developer | Data Engineering | AI & NLP
+
+<p> <img src="https://komarev.com/ghpvc/?username=MahdiSobhani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
+
+</div>
 __________________________
 
 
