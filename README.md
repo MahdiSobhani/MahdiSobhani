@@ -1,12 +1,10 @@
-<div align="center">
+<div>
 
 ✨ Hi, I'm Mahdi Sobhani 👋
 Python Backend Developer | Data Engineering | AI & NLP
 
-<p> <img src="https://komarev.com/ghpvc/?username=MahdiSobhani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
 
 </div>
-__________________________
 
 
 ![py](https://user-images.githubusercontent.com/132735866/236752062-d7caa691-9bf9-4ce0-94f5-f071fbfd0853.jpg)
