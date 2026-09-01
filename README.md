@@ -3,6 +3,21 @@
 ✨ Hi, I'm Mahdi Sobhani 👋
 Python Backend Developer | Data Engineering | AI & NLP
 
+## 👨‍💻 About Me
+
+Python Backend Developer with 4 years of experience in designing and implementing backend systems, data-processing solutions, and AI-driven applications.
+
+My main areas of expertise include:
+
+* 🐍 Python Backend Development
+* ⚡ FastAPI & Flask
+* 🗄️ Database Design, Maintenance & Performance Optimization
+* 📊 Data Processing & Analysis
+* 🔄 Parallel & Multithreaded Processing
+* 🤖 NLP, LLM & RAG
+* 🧠 Transformers & PEFT / LoRA
+* 🧩 Object-Oriented Programming, Design Patterns & Software Design
+* 🔌 REST API Development
 
 </div>
 
